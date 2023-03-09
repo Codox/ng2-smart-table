@@ -62,6 +62,9 @@
     "type": "git",
     "url": "git+https://github.com/Codox/ng2-smart-table.git"
   },
+  "publishConfig": {
+    "@codox:registry": "https://npm.pkg.github.com"
+  },
   "author": "",
   "license": "MIT",
   "bugs": {
