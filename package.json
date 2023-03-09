@@ -1,6 +1,6 @@
 {
-  "name": "ng2-smart-table",
-  "version": "1.7.2",
+  "name": "@codox/ng2-smart-table",
+  "version": "2.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -55,5 +55,17 @@
     "ts-node": "~7.0.0",
     "tslint": "~6.1.0",
     "typescript": "~4.6.4"
-  }
+  },
+  "description": "[![Build Status](https://travis-ci.org/akveo/ng2-smart-table.svg?branch=master)](https://travis-ci.org/akveo/ng2-smart-table)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Codox/ng2-smart-table.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Codox/ng2-smart-table/issues"
+  },
+  "homepage": "https://github.com/Codox/ng2-smart-table#readme"
 }
